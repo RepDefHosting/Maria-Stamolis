@@ -5,7 +5,7 @@ name: Maria Stamolis
 jobTitle: Real Estate Investment Executive
 location: Dallas, TX
 profileImage:
-  src: /img/maria-stamolis-smile.jpg
+  src: /img/maria-stamolis-is-an-experienced-dallas-real-estate-entrepreneur-who-holds-leadership-responsibilities-with-the-lincoln-property-company.jpg
   alt: Maria Stamolis
 siteUrl: https://www.mariastamolis.com/
 socialLinks:
