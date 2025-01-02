@@ -63,7 +63,7 @@ discoverConnectExplore: About me
 longBiography_MD: |
   {{long_biography}}
 ---
-Maria Stamolis is an experienced Dallas real estate entrepreneur who holds leadership responsibilities with the Lincoln Property Company. She manages a combination of debt and equity platforms designed to attract and sustain investment capital and pursue opportunistic projects. Maria Stamolis has successfully built lasting relationships with institutional partners that enable corporate expansion into areas such as industrial, retail, and multi-family/mixed-use.
+Maria Stamolis is an experienced Dallas real estate entrepreneur who holds leadership responsibilities with the Lincoln Property Company. She manages a combination of debt and equity platforms designed to attract and sustain investment capital and pursue opportunistic projects. [Maria Stamolis](https://www.slideshare.net/mstamolis) has successfully built lasting relationships with institutional partners that enable corporate expansion into areas such as industrial, retail, and multi-family/mixed-use.
 
 Ms. Stamolis was active with Los Angeles-based Karney Management Company from 1998 to 2006, where she oversaw a range of development projects through various phases, such as acquisition, entitlement, and leasing. She designed financing approaches to consolidate existing loans and minimize exposure to interest rate fluctuations while boosting distributions and cashflow. Working to automate management systems and procedures, she set in place innovative IT systems/programs and delivered effective investor relations policies and procedures.
 
