@@ -1,25 +1,25 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: Maria Stamolis
+jobTitle: Real Estate Investment Executive
+location: Dallas, TX
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/maria-stamolis-smile.jpg
+  alt: Maria Stamolis
+siteUrl: https://www.mariastamolis.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
-    label: Visit
+    url: https://www.linkedin.com/in/maria-stamolis-a6888511a
+    label: LinkedIn
     show: true
   pinterest:
     url: null
